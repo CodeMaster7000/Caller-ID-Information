@@ -17,3 +17,5 @@ CLI:
 
 - Run `python3 CallerIDInfo.py` in your terminal if you have Mac/Linux.
 - Run `python CallerIDInfo.py` in your terminal if you have Windows.
+
+DISCLAIMER: I, CodeMaster7000, am not responsible for any damage related to the misuse of this product.
